@@ -1,6 +1,6 @@
 # gslcSession9
 
-Instalasi:
+Installations:
 1. composer require laravel/socialite
 2. php artisan config:cache
 3. php artisan serve
